@@ -175,8 +175,7 @@ No proprietary claims are made over any external systems or codebases.
 
 ## 👤 Maintained By
 
-**0xKarl:**  https://x.com/0xKarl
-Project Lead — Claw Codes  
+**0xKarl:**  https://x.com/0xKarl  
 
 ---
 
