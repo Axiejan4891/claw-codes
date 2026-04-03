@@ -24,7 +24,7 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 ---
 
 <p align="center">
-  <strong>Claw Codes is actively being rewritten into a high-performance agent framework</strong>
+  <strong>Claw Codes is actively being rewritten into a high-performance agent frameworks</strong>
 </p>
 
 > [!IMPORTANT]
