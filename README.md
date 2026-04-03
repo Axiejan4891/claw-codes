@@ -19,6 +19,9 @@ If you find this project useful, consider giving it a star ⭐ and following me 
   <a href="https://github.com/sponsors/0xKarl-dev">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" />
   </a>
+  <a href="https://bmacc.app/tip/0xkarl">
+    <img src="https://img.shields.io/badge/Support-BMACC-0052FF?logo=base&logoColor=white&style=for-the-badge" alt="Support on BMACC" />
+  </a>
 </p>
 
 ---
